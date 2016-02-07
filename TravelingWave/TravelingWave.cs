@@ -12,7 +12,7 @@ namespace TravelingWave
 {
     public partial class TravelingWaveM : Form
     {
-        public Prog1 pr;
+     
         public TravelingWaveM()
         {
             InitializeComponent();
