@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingWave", "TravelingWave\TravelingWave.csproj", "{DCE3C7EC-E5C0-4708-AE91-D86A9C5C83E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3B9816D-AAD9-44DC-AAEB-75B6CD1CF6FD}"
+	ProjectSection(SolutionItems) = preProject
+		Prog1.cs = Prog1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE3C7EC-E5C0-4708-AE91-D86A9C5C83E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE3C7EC-E5C0-4708-AE91-D86A9C5C83E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE3C7EC-E5C0-4708-AE91-D86A9C5C83E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE3C7EC-E5C0-4708-AE91-D86A9C5C83E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
